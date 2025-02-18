@@ -1,5 +1,5 @@
 {
-  "name": "svelte-redux",
+  "name": "@panjoh/svelte-redux",
   "private": true,
   "version": "0.0.0",
   "type": "module",
